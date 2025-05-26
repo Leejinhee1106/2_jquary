@@ -1,0 +1,23 @@
+.rect{
+    background: #bfff00;
+    height: 100px;
+    width: 100px;
+    position: absolute; /*포지션에 변동이 필요할 땐 absoulte/ relative는 고정값이라*/
+    top: 240px;
+}
+.box{
+    background: #000;
+    height: 100px;
+    width: 100px;
+    position: absolute; /*포지션에 변동이 필요할 땐 absoulte/ relative는 고정값이라*/
+    top: 700px;
+}
+.typo{
+    border: 5px solid blue;
+    height: 100px;
+    width: 200px;
+    position: absolute;
+    top: 950px;
+    text-align: center;
+    font-size: 60px;
+}

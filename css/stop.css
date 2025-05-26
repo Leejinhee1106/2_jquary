@@ -1,0 +1,9 @@
+#panel{
+    display: none;
+    padding: 50px;
+    background: palevioletred;
+    text-align: center;
+    color: white;
+    font-weight: 300;
+    font-size: 20px;
+}
